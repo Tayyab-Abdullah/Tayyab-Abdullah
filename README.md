@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyab-abdullah&show_icons=true&locale=en" alt="tayyab-abdullah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab-abdullah&" alt="tayyab-abdullah" /></p>
+
