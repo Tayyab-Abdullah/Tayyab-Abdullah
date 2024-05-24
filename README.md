@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayyab Abdullah</h1>
-<h3 align="center">I am a passionate software engineer and frontend/backend developer from Pakistan.</h3>
+<h3 align="center">I am a passionate software engineer and frontend/backend web developer from Pakistan.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-abdullah" /> </p>
